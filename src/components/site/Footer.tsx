@@ -21,7 +21,7 @@ export function Footer() {
       <div className="mx-auto max-w-7xl px-5 py-14 lg:px-8">
         <div className="grid gap-10 md:grid-cols-[1.4fr_1fr_1fr]">
           <div>
-            <p className="font-display text-2xl tracking-wide">Raja Auto Care</p>
+            <p className="font-display text-2xl tracking-wide">panther Auto Care</p>
             <p className="mt-3 max-w-sm text-sm leading-relaxed text-muted-foreground">
               Boutique car detailing studio in Fremont, CA. Paint correction,
               ceramic protection and interior restoration since 2013.
@@ -70,8 +70,8 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="mailto:hello@rajaautocare.com" className="hover:text-primary">
-                  hello@rajaautocare.com
+                <a href="mailto:hello@pantherautocare.com" className="hover:text-primary">
+                  hello@pantherautocare.com
                 </a>
               </li>
             </ul>
@@ -79,7 +79,7 @@ export function Footer() {
         </div>
 
         <div className="mt-12 border-t border-border pt-6 text-xs text-muted-foreground">
-          © {new Date().getFullYear()} Raja Auto Care. All rights reserved.
+          © {new Date().getFullYear()}{"\u00A0"}panther Auto Care. All rights reserved.
         </div>
       </div>
     </footer>

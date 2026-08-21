@@ -37,7 +37,7 @@ export function About() {
             A two-bay studio, not a conveyor belt.
           </h2>
           <p className="mt-5 leading-relaxed text-muted-foreground">
-            Raja Auto Care started in 2013 in a single rented garage with one
+            panther Auto Care started in 2013 in a single rented garage with one
             polisher and a stubborn belief that most cars are washed far too
             quickly. Today we run a two-bay studio and still cap ourselves at
             four vehicles a day — because correction work simply cannot be
