@@ -51,11 +51,11 @@ export function Navbar() {
       <nav className="mx-auto grid max-w-7xl grid-cols-[minmax(0,1fr)_auto] items-center gap-4 px-5 py-4 lg:px-8">
         <a href="#home" className="flex min-w-0 items-center gap-3">
           <span className="grid h-10 w-10 shrink-0 place-items-center rounded-md bg-primary font-display text-xl text-primary-foreground">
-            R
+            p
           </span>
           <span className="min-w-0">
             <span className="block truncate font-display text-xl leading-none tracking-wide">
-              Raja Auto Care
+              panter{"\u00A0"} Auto Care
             </span>
             <span className="block text-[0.62rem] tracking-[0.28em] text-muted-foreground uppercase">
               Detailing Studio
