@@ -40,7 +40,7 @@ function validate(values: Fields) {
 
 const details = [
   { icon: Phone, label: "Phone", value: "+1 (415) 555-0182", href: "tel:+14155550182" },
-  { icon: Mail, label: "Email", value: "hello@rajaautocare.com", href: "mailto:hello@rajaautocare.com" },
+  { icon: Mail, label: "Email", value: "hello@pantherautocare.com", href: "mailto:hello@pantherautocare.com" },
   { icon: MapPin, label: "Studio", value: "48 Kingsway Industrial Park, Unit 6, Fremont, CA 94538" },
   { icon: Clock, label: "Hours", value: "Mon–Sat · 8:00 – 18:00" },
 ];

@@ -30,7 +30,7 @@ export function Hero() {
           <span className="text-white"> showroom glass</span> every single day.
         </h1>
         <p className="mt-6 max-w-xl text-base leading-relaxed text-white sm:text-lg">
-          Raja Auto Care is a boutique detailing studio built around paint
+          panther Auto Care is a boutique detailing studio built around paint
           correction, ceramic protection and obsessive interior work — done by
           hand, never rushed.
         </p>
