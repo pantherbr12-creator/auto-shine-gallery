@@ -34,6 +34,9 @@ export function Hero() {
           correction, ceramic protection and obsessive interior work — done by
           hand, never rushed.
         </p>
+        <p className="mt-8 max-w-3xl text-center text-xl font-bold uppercase tracking-widest text-white drop-shadow-md sm:text-2xl lg:text-3xl">
+          The purpose of this site is to showcase the work of BR Dev Team.
+        </p>
 
         <div className="mt-9 flex flex-col gap-3 sm:flex-row sm:items-center">
           <a
