@@ -83,7 +83,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         content:
           "Premium car detailing studio offering exterior wash, interior cleaning, ceramic coating and full detailing.",
       },
-      { name: "author", content: "Raja Auto Care" },
+{ name: "author", content: "panther Auto Care" },
+      {
+        name: "keywords",
+        content:
+          "car detailing, auto care, exterior wash, interior cleaning, ceramic coating, full detailing, paint correction, Fremont CA",
+      },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
