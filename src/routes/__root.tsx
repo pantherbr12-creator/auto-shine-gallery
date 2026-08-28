@@ -84,6 +84,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           "Premium car detailing studio offering exterior wash, interior cleaning, ceramic coating and full detailing.",
       },
 { name: "author", content: "panther Auto Care" },
+      { name: "google-adsense-account", content: "ca-pub-2630076044529681" },
       {
         name: "keywords",
         content:
